@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <hmtx>
+    <mtx name=".notdef" width="1229" lsb="193"/>
+    <mtx name="glyph00052" width="0" lsb="-1401"/>
+    <mtx name="glyph00053" width="0" lsb="-1401"/>
+    <mtx name="uni000D" width="1044" lsb="0"/>
+    <mtx name="uni00A0" width="532" lsb="0"/>
+    <mtx name="uniA900" width="1581" lsb="180"/>
+    <mtx name="uniA901" width="1581" lsb="180"/>
+    <mtx name="uniA902" width="1581" lsb="180"/>
+    <mtx name="uniA903" width="1581" lsb="180"/>
+    <mtx name="uniA904" width="1581" lsb="180"/>
+    <mtx name="uniA905" width="1581" lsb="180"/>
+    <mtx name="uniA906" width="1581" lsb="180"/>
+    <mtx name="uniA907" width="1581" lsb="180"/>
+    <mtx name="uniA908" width="1581" lsb="180"/>
+    <mtx name="uniA909" width="1581" lsb="180"/>
+    <mtx name="uniA90A" width="1581" lsb="180"/>
+    <mtx name="uniA90B" width="1581" lsb="180"/>
+    <mtx name="uniA90C" width="1581" lsb="180"/>
+    <mtx name="uniA90D" width="1581" lsb="180"/>
+    <mtx name="uniA90E" width="1581" lsb="180"/>
+    <mtx name="uniA90F" width="1581" lsb="180"/>
+    <mtx name="uniA910" width="1581" lsb="180"/>
+    <mtx name="uniA911" width="1581" lsb="180"/>
+    <mtx name="uniA912" width="1581" lsb="180"/>
+    <mtx name="uniA913" width="1581" lsb="180"/>
+    <mtx name="uniA914" width="1581" lsb="180"/>
+    <mtx name="uniA915" width="1581" lsb="180"/>
+    <mtx name="uniA916" width="1581" lsb="180"/>
+    <mtx name="uniA917" width="1581" lsb="180"/>
+    <mtx name="uniA918" width="1581" lsb="180"/>
+    <mtx name="uniA919" width="1581" lsb="180"/>
+    <mtx name="uniA91A" width="1581" lsb="180"/>
+    <mtx name="uniA91B" width="1663" lsb="180"/>
+    <mtx name="uniA91C" width="1663" lsb="180"/>
+    <mtx name="uniA91D" width="1581" lsb="180"/>
+    <mtx name="uniA91E" width="1581" lsb="180"/>
+    <mtx name="uniA91F" width="1581" lsb="180"/>
+    <mtx name="uniA920" width="1581" lsb="180"/>
+    <mtx name="uniA921" width="1581" lsb="180"/>
+    <mtx name="uniA922" width="1581" lsb="180"/>
+    <mtx name="uniA923" width="1581" lsb="180"/>
+    <mtx name="uniA924" width="1581" lsb="180"/>
+    <mtx name="uniA925" width="1581" lsb="180"/>
+    <mtx name="uniA926" width="0" lsb="-895"/>
+    <mtx name="uniA927" width="0" lsb="-1192"/>
+    <mtx name="uniA928" width="0" lsb="-1192"/>
+    <mtx name="uniA929" width="0" lsb="-1262"/>
+    <mtx name="uniA92A" width="0" lsb="-1262"/>
+    <mtx name="uniA92B" width="0" lsb="-895"/>
+    <mtx name="uniA92C" width="0" lsb="-1401"/>
+    <mtx name="uniA92D" width="0" lsb="-1401"/>
+    <mtx name="uniA92E" width="1581" lsb="78"/>
+    <mtx name="uniA92F" width="532" lsb="180"/>
+    <mtx name="uniFEFF" width="0" lsb="0"/>
+  </hmtx>
+
+</ttFont>

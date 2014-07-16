@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="uniFEFF"/>
+    <GlyphID id="2" name="uni000D"/>
+    <GlyphID id="3" name="uni00A0"/>
+    <GlyphID id="4" name="uniA900"/>
+    <GlyphID id="5" name="uniA901"/>
+    <GlyphID id="6" name="uniA902"/>
+    <GlyphID id="7" name="uniA903"/>
+    <GlyphID id="8" name="uniA904"/>
+    <GlyphID id="9" name="uniA905"/>
+    <GlyphID id="10" name="uniA906"/>
+    <GlyphID id="11" name="uniA907"/>
+    <GlyphID id="12" name="uniA908"/>
+    <GlyphID id="13" name="uniA909"/>
+    <GlyphID id="14" name="uniA90A"/>
+    <GlyphID id="15" name="uniA90B"/>
+    <GlyphID id="16" name="uniA90C"/>
+    <GlyphID id="17" name="uniA90D"/>
+    <GlyphID id="18" name="uniA90E"/>
+    <GlyphID id="19" name="uniA90F"/>
+    <GlyphID id="20" name="uniA910"/>
+    <GlyphID id="21" name="uniA911"/>
+    <GlyphID id="22" name="uniA912"/>
+    <GlyphID id="23" name="uniA913"/>
+    <GlyphID id="24" name="uniA914"/>
+    <GlyphID id="25" name="uniA915"/>
+    <GlyphID id="26" name="uniA916"/>
+    <GlyphID id="27" name="uniA917"/>
+    <GlyphID id="28" name="uniA918"/>
+    <GlyphID id="29" name="uniA919"/>
+    <GlyphID id="30" name="uniA91A"/>
+    <GlyphID id="31" name="uniA91B"/>
+    <GlyphID id="32" name="uniA91C"/>
+    <GlyphID id="33" name="uniA91D"/>
+    <GlyphID id="34" name="uniA91E"/>
+    <GlyphID id="35" name="uniA91F"/>
+    <GlyphID id="36" name="uniA920"/>
+    <GlyphID id="37" name="uniA921"/>
+    <GlyphID id="38" name="uniA922"/>
+    <GlyphID id="39" name="uniA923"/>
+    <GlyphID id="40" name="uniA924"/>
+    <GlyphID id="41" name="uniA925"/>
+    <GlyphID id="42" name="uniA926"/>
+    <GlyphID id="43" name="uniA927"/>
+    <GlyphID id="44" name="uniA928"/>
+    <GlyphID id="45" name="uniA929"/>
+    <GlyphID id="46" name="uniA92A"/>
+    <GlyphID id="47" name="uniA92B"/>
+    <GlyphID id="48" name="uniA92C"/>
+    <GlyphID id="49" name="uniA92D"/>
+    <GlyphID id="50" name="uniA92E"/>
+    <GlyphID id="51" name="uniA92F"/>
+    <GlyphID id="52" name="glyph00052"/>
+    <GlyphID id="53" name="glyph00053"/>
+  </GlyphOrder>
+
+</ttFont>

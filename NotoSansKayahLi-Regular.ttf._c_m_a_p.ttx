@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa900" name="uniA900"/><!-- KAYAH LI DIGIT ZERO -->
+      <map code="0xa901" name="uniA901"/><!-- KAYAH LI DIGIT ONE -->
+      <map code="0xa902" name="uniA902"/><!-- KAYAH LI DIGIT TWO -->
+      <map code="0xa903" name="uniA903"/><!-- KAYAH LI DIGIT THREE -->
+      <map code="0xa904" name="uniA904"/><!-- KAYAH LI DIGIT FOUR -->
+      <map code="0xa905" name="uniA905"/><!-- KAYAH LI DIGIT FIVE -->
+      <map code="0xa906" name="uniA906"/><!-- KAYAH LI DIGIT SIX -->
+      <map code="0xa907" name="uniA907"/><!-- KAYAH LI DIGIT SEVEN -->
+      <map code="0xa908" name="uniA908"/><!-- KAYAH LI DIGIT EIGHT -->
+      <map code="0xa909" name="uniA909"/><!-- KAYAH LI DIGIT NINE -->
+      <map code="0xa90a" name="uniA90A"/><!-- KAYAH LI LETTER KA -->
+      <map code="0xa90b" name="uniA90B"/><!-- KAYAH LI LETTER KHA -->
+      <map code="0xa90c" name="uniA90C"/><!-- KAYAH LI LETTER GA -->
+      <map code="0xa90d" name="uniA90D"/><!-- KAYAH LI LETTER NGA -->
+      <map code="0xa90e" name="uniA90E"/><!-- KAYAH LI LETTER SA -->
+      <map code="0xa90f" name="uniA90F"/><!-- KAYAH LI LETTER SHA -->
+      <map code="0xa910" name="uniA910"/><!-- KAYAH LI LETTER ZA -->
+      <map code="0xa911" name="uniA911"/><!-- KAYAH LI LETTER NYA -->
+      <map code="0xa912" name="uniA912"/><!-- KAYAH LI LETTER TA -->
+      <map code="0xa913" name="uniA913"/><!-- KAYAH LI LETTER HTA -->
+      <map code="0xa914" name="uniA914"/><!-- KAYAH LI LETTER NA -->
+      <map code="0xa915" name="uniA915"/><!-- KAYAH LI LETTER PA -->
+      <map code="0xa916" name="uniA916"/><!-- KAYAH LI LETTER PHA -->
+      <map code="0xa917" name="uniA917"/><!-- KAYAH LI LETTER MA -->
+      <map code="0xa918" name="uniA918"/><!-- KAYAH LI LETTER DA -->
+      <map code="0xa919" name="uniA919"/><!-- KAYAH LI LETTER BA -->
+      <map code="0xa91a" name="uniA91A"/><!-- KAYAH LI LETTER RA -->
+      <map code="0xa91b" name="uniA91B"/><!-- KAYAH LI LETTER YA -->
+      <map code="0xa91c" name="uniA91C"/><!-- KAYAH LI LETTER LA -->
+      <map code="0xa91d" name="uniA91D"/><!-- KAYAH LI LETTER WA -->
+      <map code="0xa91e" name="uniA91E"/><!-- KAYAH LI LETTER THA -->
+      <map code="0xa91f" name="uniA91F"/><!-- KAYAH LI LETTER HA -->
+      <map code="0xa920" name="uniA920"/><!-- KAYAH LI LETTER VA -->
+      <map code="0xa921" name="uniA921"/><!-- KAYAH LI LETTER CA -->
+      <map code="0xa922" name="uniA922"/><!-- KAYAH LI LETTER A -->
+      <map code="0xa923" name="uniA923"/><!-- KAYAH LI LETTER OE -->
+      <map code="0xa924" name="uniA924"/><!-- KAYAH LI LETTER I -->
+      <map code="0xa925" name="uniA925"/><!-- KAYAH LI LETTER OO -->
+      <map code="0xa926" name="uniA926"/><!-- KAYAH LI VOWEL UE -->
+      <map code="0xa927" name="uniA927"/><!-- KAYAH LI VOWEL E -->
+      <map code="0xa928" name="uniA928"/><!-- KAYAH LI VOWEL U -->
+      <map code="0xa929" name="uniA929"/><!-- KAYAH LI VOWEL EE -->
+      <map code="0xa92a" name="uniA92A"/><!-- KAYAH LI VOWEL O -->
+      <map code="0xa92b" name="uniA92B"/><!-- KAYAH LI TONE PLOPHU -->
+      <map code="0xa92c" name="uniA92C"/><!-- KAYAH LI TONE CALYA -->
+      <map code="0xa92d" name="uniA92D"/><!-- KAYAH LI TONE CALYA PLOPHU -->
+      <map code="0xa92e" name="uniA92E"/><!-- KAYAH LI SIGN CWI -->
+      <map code="0xa92f" name="uniA92F"/><!-- KAYAH LI SIGN SHYA -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
