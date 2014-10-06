@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Kayah Li",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 6730,
+  "fonts": [
+    {
+      "name": "Noto Sans Kayah Li",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansKayahLi-Regular.ttf",
+      "postScriptName": "NotoSansKayahLi",
+      "fullName": "Noto Sans Kayah Li",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
